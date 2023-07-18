@@ -12,9 +12,10 @@ body {
 		sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	background-image: url('./layered-waves-haikei.png');
+	/* background-image: url('./layered-waves-haikei.png'); */
 	background-repeat: no-repeat;
 	background-size: cover;
+	position: absolute;
 }
 
 code {
@@ -30,7 +31,7 @@ h1 {
 	font-size: 30px;
 }
 
-
+ 
 
 @media (max-width: 768px) {
 	h1 {

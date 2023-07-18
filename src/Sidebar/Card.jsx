@@ -4,7 +4,7 @@ import 'font-awesome/css/font-awesome.min.css';
 
 
 
-const Card = () => {
+export const Card = () => {
   const cardData = [
     {
       name: 'Jane Smith',
